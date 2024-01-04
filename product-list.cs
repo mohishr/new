@@ -8,7 +8,7 @@ namespace product_list_namespace
         public product[] list;
         
         public product_list(){
-            
+
         }
         public class product
         {
