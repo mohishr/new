@@ -24,12 +24,8 @@ namespace product_list_namespace
                 this.product_name = string.Empty;
                 this.product_id=-1;
             }
+            //here will be implementation
         }
     }
 }
 
-
-//sdf;jlk
-//sdf;jlk
-//sdf;jlk
-//sdf;jlk
