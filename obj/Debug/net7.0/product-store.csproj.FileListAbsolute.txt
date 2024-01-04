@@ -1,0 +1,15 @@
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.csproj.AssemblyReference.cache
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.AssemblyInfoInputs.cache
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.AssemblyInfo.cs
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.csproj.CoreCompileInputs.cache
+C:\Users\Mohi_shr\Desktop\product-store\bin\Debug\net7.0\product-store.exe
+C:\Users\Mohi_shr\Desktop\product-store\bin\Debug\net7.0\product-store.deps.json
+C:\Users\Mohi_shr\Desktop\product-store\bin\Debug\net7.0\product-store.runtimeconfig.json
+C:\Users\Mohi_shr\Desktop\product-store\bin\Debug\net7.0\product-store.dll
+C:\Users\Mohi_shr\Desktop\product-store\bin\Debug\net7.0\product-store.pdb
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.dll
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\refint\product-store.dll
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.pdb
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\product-store.genruntimeconfig.cache
+C:\Users\Mohi_shr\Desktop\product-store\obj\Debug\net7.0\ref\product-store.dll
